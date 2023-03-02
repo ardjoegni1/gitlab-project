@@ -1,1 +1,2 @@
-is our first git classes
+is our first git lesson
+more to be added
